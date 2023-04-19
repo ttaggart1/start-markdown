@@ -4,3 +4,10 @@
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+```
+var add2 = function(number) {
+  return number + 2;
+}
+```
